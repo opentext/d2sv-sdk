@@ -1,4 +1,4 @@
-# d2sv-sdk
+# OpenText D2 Smartview SDK - Documentation
 
 This repository host the documentation code for D2 Smartview SDK - Documentation.
 
