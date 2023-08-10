@@ -8,7 +8,7 @@
 |        | Version                                                   | Documentation | Release Date |
 |--------|-----------------------------------------------------------| ----------- |  ----------- |
 | Latest | 23.4.0                                                    | [Click here](https://opentext.github.io/d2sv-sdk/23.4.0/)     | under development  |
-| Previous   | 23.2.0         | [Click here](https://opentext.github.io/d2sv-sdk/23.2.0/) |  [15-Apr-2023]([url](https://support.opentext.com/csm?id=search&spa=1&q=%23DocumentumD223.2SoftwareDownloads)) |
+| Previous   | 23.2.0         | [Click here](https://opentext.github.io/d2sv-sdk/23.2.0/) |  [15-Apr-2023](https://support.opentext.com/csm?id=search&spa=1&q=%23DocumentumD223.2SoftwareDownloads) |
 
 ### What's Inside  
 
