@@ -1,4 +1,4 @@
-<img src="https://opentext.github.io/d2sv-sdk/23.4.0/images/icon.png" height=40px;">
+<div><img src="https://opentext.github.io/d2sv-sdk/23.4.0/images/icon.png" height=40px;" /> </div>
 
 ## OpenText D2 Smartview SDK - Documentation
 
