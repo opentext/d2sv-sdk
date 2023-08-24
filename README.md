@@ -1,8 +1,7 @@
-<div><img src="https://opentext.github.io/d2sv-sdk/23.4.0/images/icon.png" height=40px;" /> </div>
 
 ## OpenText D2 Smartview SDK - Documentation
 
-> <p style="color:brown"> This repository host the documentation code for D2 Smartview SDK - Documentation. </p>
+This repository host the documentation code for D2 Smartview SDK - Documentation. 
 
 ### Versions
 
