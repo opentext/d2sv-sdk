@@ -1,5 +1,6 @@
+<img src="https://opentext.github.io/d2sv-sdk/23.4.0/images/icon.png" height=40px;">
 
-# OpenText D2 Smartview SDK - Documentation
+## OpenText D2 Smartview SDK - Documentation
 
 > <p style="color:brown"> This repository host the documentation code for D2 Smartview SDK - Documentation. </p>
 
@@ -26,14 +27,23 @@
 
 ### Contributing
 
-Contributions are not welcome to this repository outside of the OpenText D2 Smartview team.
+Contributions are <b>not welcome</b> to this repository outside of the OpenText D2 Smartview team.
+
+
+### Feedback
+
+Please write to [Kyle Pettit](mailto:kpettit@opentext.com) and [Michael McCollough
+](mailto:mmccollo@opentext.com) on D2 Smartview SDK and it's documentation.
+
+We are always looking for ways to improve our website. Your feedback is important to us, so do share your improvement suggestions with [Jayanta D](mailto:jayantad@opentext.com) and [Sunil Kumar Gollapinni](mailto:sgollapinni@opentext.com).
 
 ### License
 
 Check here for [license guidelines](/LICENSE).
 
-### Feedback
-
-Please write to [Kyle Pettit](mailto:kpettit@opentext.com) and [Michael McCollough
-](mailto:mmccollo@opentext.com) on SDK documentation.
+<style>
+h1 {
+  display: none;
+}
+</style>
 
