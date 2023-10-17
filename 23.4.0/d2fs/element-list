@@ -59,6 +59,7 @@ com.emc.d2fs.models.x3_skin
 com.emc.d2fs.models.x3_space
 com.emc.d2fs.models.x3_widget
 com.emc.d2fs.service
+com.emc.d2fs.service.d2collection
 com.emc.d2fs.service.externalshare
 com.emc.d2fs.service.relation
 com.emc.d2fs.service.workflow.enums
@@ -67,6 +68,7 @@ com.emc.d2fs.services.action_service
 com.emc.d2fs.services.annotation_service
 com.emc.d2fs.services.bravacsr_annotation_service
 com.emc.d2fs.services.bravacsr_config_service
+com.emc.d2fs.services.bravaiviewer_publication_service
 com.emc.d2fs.services.browser_service
 com.emc.d2fs.services.centerstage_service
 com.emc.d2fs.services.checkin_service

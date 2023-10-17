@@ -1,6 +1,4 @@
 Manifest-Version: 1.0
-Archiver-Version: Plexus Archiver
-Created-By: Apache Maven
-Built-By: sgollapinni
-Build-Jdk: 11.0.18
+Created-By: Maven Javadoc Plugin 3.3.2
+Build-Jdk-Spec: 17
 
