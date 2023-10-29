@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.emc.d2fs.dctm.rest.services"},{"l":"com.emc.documentum.d2.core.resource.controller"},{"l":"com.emc.documentum.d2.core.resource.view"},{"l":"com.emc.documentum.d2.core.resource.view.factory"},{"l":"com.emc.documentum.d2fs.util"},{"l":"com.emc.documentum.rest.dfc"}]
