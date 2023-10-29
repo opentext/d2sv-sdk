@@ -1,6 +1,0 @@
-com.emc.documentum.rest.context
-com.emc.documentum.rest.context.jc
-com.emc.documentum.rest.controller.common
-com.emc.documentum.rest.filter
-com.emc.documentum.rest.log
-com.emc.documentum.rest.utils
