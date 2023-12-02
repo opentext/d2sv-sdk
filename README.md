@@ -7,7 +7,7 @@ This repository host the documentation code for D2 Smartview SDK - Documentation
 
 | Version | Documentation | Release Date |
 |---------| ----------- |  ----------- |
-| 23.4.0  | [Click here](https://opentext.github.io/d2sv-sdk/23.4.0/) | under development  |
+| 23.4.0  | [Click here](https://opentext.github.io/d2sv-sdk/23.4.0/) | Coming soon, we're already packing our bags for the party :-)  |
 | 23.2.0  | [Click here](https://opentext.github.io/d2sv-sdk/23.2.0/) |  [15-Apr-2023](https://support.opentext.com/csm?id=search&spa=1&q=%23DocumentumD223.2SoftwareDownloads) |
 
 ### What's Inside  
