@@ -26,7 +26,7 @@ This repository hosts the documentation code for D2 Smartview SDK - Documentatio
 
 ### Contributing
 
-**RESTRICTED.** Contributions are <b>not welcome</b> to this repository outside of the OpenText D2 Smartview team.
+<b><span style="color:brown">RESTRICTED.</span></b> Contributions are <b>not welcome</b> to this repository outside of the OpenText D2 Smartview team.
 
 
 ### Feedback
