@@ -1,7 +1,7 @@
 
 ## OpenText D2 Smartview SDK - Documentation
 
-This repository host the documentation code for D2 Smartview SDK - Documentation. 
+This repository hosts the documentation code for D2 Smartview SDK - Documentation. 
 
 ### Versions
 
@@ -22,11 +22,11 @@ This repository host the documentation code for D2 Smartview SDK - Documentation
 
 ### OpenText Developer
 
-[Click here](https://developer.opentext.com/) to go to the OpenText developer portal.
+[Click here](https://developer.opentext.com/ce/products/documentum/documentation/documentumsmartviewsdk/1) to go to the OpenText developer portal.
 
 ### Contributing
 
-Contributions are <b>not welcome</b> to this repository outside of the OpenText D2 Smartview team.
+**RESTRICTED.** Contributions are <b>not welcome</b> to this repository outside of the OpenText D2 Smartview team.
 
 
 ### Feedback
