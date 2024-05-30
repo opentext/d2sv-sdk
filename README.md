@@ -42,7 +42,7 @@ We are always looking for ways to improve our website. Your feedback is importan
 Check here for [license guidelines](/LICENSE).
 
 🛡️ Security
-If you discover any security-related issues, please report them promptly via sgollapinni@opentext.com (mailto:sgollapinni@opentext.com).
+If you discover any security-related issues, please report them promptly via [sgollapinni@opentext.com](mailto:sgollapinni@opentext.com).
 
 <style>
 h1 {
