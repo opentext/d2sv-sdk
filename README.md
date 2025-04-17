@@ -7,6 +7,7 @@ This repository hosts the documentation code for D2 Smartview SDK - Documentatio
 
 | Version | Documentation | Release Date |
 |---------| ----------- |  ----------- |
+| 25.2.0  | [Click here](https://opentext.github.io/d2sv-sdk/25.2.0/) |  |
 | 24.4.0  | [Click here](https://opentext.github.io/d2sv-sdk/24.4.0/) | [18-Dec-2024](https://support.opentext.com/csm?id=kb_article_view&sysparm_article=KB0830138) |
 | 24.2.0  | [Click here](https://opentext.github.io/d2sv-sdk/24.2.0/) | [23-May-2024](https://support.opentext.com/csm?id=kb_article_view&sysparm_article=KB0816390) |
 | 23.4.0  | [Click here](https://opentext.github.io/d2sv-sdk/23.4.0/) | [21-Dec-2023](https://support.opentext.com/csm?sys_kb_id=5b1e86f0479f35d0053dccdbd36d4367&id=kb_article_view&sysparm_rank=2&sysparm_tsqueryId=ca8733cd476731d03a95a877536d43cd)  |
